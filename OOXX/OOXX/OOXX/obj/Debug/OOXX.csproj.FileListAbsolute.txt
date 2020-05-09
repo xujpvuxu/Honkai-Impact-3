@@ -1,0 +1,9 @@
+C:\Users\xujpv\OneDrive\桌面\OOXX\OOXX\OOXX\bin\Debug\OOXX.exe.config
+C:\Users\xujpv\OneDrive\桌面\OOXX\OOXX\OOXX\obj\Debug\OOXX.csprojResolveAssemblyReference.cache
+C:\Users\xujpv\OneDrive\桌面\OOXX\OOXX\OOXX\obj\Debug\OOXX.Form1.resources
+C:\Users\xujpv\OneDrive\桌面\OOXX\OOXX\OOXX\obj\Debug\OOXX.Properties.Resources.resources
+C:\Users\xujpv\OneDrive\桌面\OOXX\OOXX\OOXX\obj\Debug\OOXX.csproj.GenerateResource.Cache
+C:\Users\xujpv\OneDrive\桌面\OOXX\OOXX\OOXX\bin\Debug\OOXX.exe
+C:\Users\xujpv\OneDrive\桌面\OOXX\OOXX\OOXX\bin\Debug\OOXX.pdb
+C:\Users\xujpv\OneDrive\桌面\OOXX\OOXX\OOXX\obj\Debug\OOXX.exe
+C:\Users\xujpv\OneDrive\桌面\OOXX\OOXX\OOXX\obj\Debug\OOXX.pdb
